@@ -1,0 +1,14 @@
+D:\Visual\26092023\ImplementEvents\ImplementEvents\bin\Debug\net6.0\ImplementEvents.exe
+D:\Visual\26092023\ImplementEvents\ImplementEvents\bin\Debug\net6.0\ImplementEvents.deps.json
+D:\Visual\26092023\ImplementEvents\ImplementEvents\bin\Debug\net6.0\ImplementEvents.runtimeconfig.json
+D:\Visual\26092023\ImplementEvents\ImplementEvents\bin\Debug\net6.0\ImplementEvents.dll
+D:\Visual\26092023\ImplementEvents\ImplementEvents\bin\Debug\net6.0\ImplementEvents.pdb
+D:\Visual\26092023\ImplementEvents\ImplementEvents\obj\Debug\net6.0\ImplementEvents.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual\26092023\ImplementEvents\ImplementEvents\obj\Debug\net6.0\ImplementEvents.AssemblyInfoInputs.cache
+D:\Visual\26092023\ImplementEvents\ImplementEvents\obj\Debug\net6.0\ImplementEvents.AssemblyInfo.cs
+D:\Visual\26092023\ImplementEvents\ImplementEvents\obj\Debug\net6.0\ImplementEvents.csproj.CoreCompileInputs.cache
+D:\Visual\26092023\ImplementEvents\ImplementEvents\obj\Debug\net6.0\ImplementEvents.dll
+D:\Visual\26092023\ImplementEvents\ImplementEvents\obj\Debug\net6.0\refint\ImplementEvents.dll
+D:\Visual\26092023\ImplementEvents\ImplementEvents\obj\Debug\net6.0\ImplementEvents.pdb
+D:\Visual\26092023\ImplementEvents\ImplementEvents\obj\Debug\net6.0\ImplementEvents.genruntimeconfig.cache
+D:\Visual\26092023\ImplementEvents\ImplementEvents\obj\Debug\net6.0\ref\ImplementEvents.dll
