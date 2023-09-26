@@ -1,0 +1,14 @@
+D:\Visual\26092023\GenericDelegateTypes\GenericDelegateTypes\bin\Debug\net6.0\GenericDelegateTypes.exe
+D:\Visual\26092023\GenericDelegateTypes\GenericDelegateTypes\bin\Debug\net6.0\GenericDelegateTypes.deps.json
+D:\Visual\26092023\GenericDelegateTypes\GenericDelegateTypes\bin\Debug\net6.0\GenericDelegateTypes.runtimeconfig.json
+D:\Visual\26092023\GenericDelegateTypes\GenericDelegateTypes\bin\Debug\net6.0\GenericDelegateTypes.dll
+D:\Visual\26092023\GenericDelegateTypes\GenericDelegateTypes\bin\Debug\net6.0\GenericDelegateTypes.pdb
+D:\Visual\26092023\GenericDelegateTypes\GenericDelegateTypes\obj\Debug\net6.0\GenericDelegateTypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual\26092023\GenericDelegateTypes\GenericDelegateTypes\obj\Debug\net6.0\GenericDelegateTypes.AssemblyInfoInputs.cache
+D:\Visual\26092023\GenericDelegateTypes\GenericDelegateTypes\obj\Debug\net6.0\GenericDelegateTypes.AssemblyInfo.cs
+D:\Visual\26092023\GenericDelegateTypes\GenericDelegateTypes\obj\Debug\net6.0\GenericDelegateTypes.csproj.CoreCompileInputs.cache
+D:\Visual\26092023\GenericDelegateTypes\GenericDelegateTypes\obj\Debug\net6.0\GenericDelegateTypes.dll
+D:\Visual\26092023\GenericDelegateTypes\GenericDelegateTypes\obj\Debug\net6.0\refint\GenericDelegateTypes.dll
+D:\Visual\26092023\GenericDelegateTypes\GenericDelegateTypes\obj\Debug\net6.0\GenericDelegateTypes.pdb
+D:\Visual\26092023\GenericDelegateTypes\GenericDelegateTypes\obj\Debug\net6.0\GenericDelegateTypes.genruntimeconfig.cache
+D:\Visual\26092023\GenericDelegateTypes\GenericDelegateTypes\obj\Debug\net6.0\ref\GenericDelegateTypes.dll
